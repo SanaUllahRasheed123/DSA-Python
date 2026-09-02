@@ -45,4 +45,6 @@ print_items(10)
 # Big O O(1)
 
 # Big O (1)
+
+#Big O Different terms for input
         
