@@ -32,19 +32,44 @@
 
 
 
-def print_items(n):
-    for i in range(n):
-        for j in range(n):
-            print(i,j)
+# def print_items(n):
+#     for i in range(n):
+#         for j in range(n):
+#             print(i,j)
             
-    for k in range(n):
-        print(k)
+#     for k in range(n):
+#         print(k)
         
-print_items(10)
+# print_items(10)
 
 # Big O O(1)
 
 # Big O (1)
 
 #Big O Different terms for input
-        
+
+
+# Classes
+
+#  
+
+# Pointers
+
+num1 = 11
+
+num2=num1
+print("Before num2 value is updated:")
+print("num1=",num1)
+print("num2",num2)
+
+print("\nnum1 points to:",id(num1))
+print("num2 points to:", id(num2))
+
+num2=22
+
+print("\nAfter num2 value is updated: ")
+print("num1=",num1)
+print("num2=",num2)
+
+print("\nnum1 points to:",id(num1))
+print("num2 points to:", id(num2))
