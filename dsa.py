@@ -3,8 +3,7 @@
 
 # def print_items(n):
 #     for i in range(n):
-#         print(i)
-        
+#         print(i)        
 # print_items(11)
 
 # Big O drop constraints
@@ -15,9 +14,14 @@
         
 #     for j in range(n):
 #         print(j)
-        
-        
-# print_items(10 )
+# print_items(10)
+
+def print_items(n):
+    for i in range(n):
+        print(i)
+    for j in range(n):
+        print(j)
+print_items(19)
 
 # Big O O(n^2)
 # def print_items(n):
@@ -74,27 +78,27 @@
 # print("\nnum1 points to:",id(num1))
 # print("num2 points to:", id(num2)) 
 
-dict1 ={
-    'value':10
-}
+    # dict1 ={
+    #     'value':10
+    # }
 
-dict2 = dict1
+    # dict2 = dict1
 
-print("Before value is updated:")
-print("dict1=",dict1)
-print("dict2=",dict2)
+    # print("Before value is updated:")
+    # print("dict1=",dict1)
+    # print("dict2=",dict2)
 
-print("\ndict1 points to:",id(dict1))
-print("dict2 points to:", id(dict2))
+    # print("\ndict1 points to:",id(dict1))
+    # print("dict2 points to:", id(dict2))
 
-dict2['value']=22
+    # dict2['value']=22
 
-print("\nAfter dict2 value is updated: ")
-print("dict1=",dict1)
-print("dict2=",dict2)
+    # print("\nAfter dict2 value is updated: ")
+    # print("dict1=",dict1)
+    # print("dict2=",dict2)
 
-print("\ndict1 points to:",id(dict1))
-print("dict2 points to:", id(dict2))
+    # print("\ndict1 points to:",id(dict1))
+    # print("dict2 points to:", id(dict2))
 # hello\s
 
 # Hello world
