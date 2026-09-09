@@ -99,28 +99,6 @@
 # print("\nnum1 points to:",id(num1))
 # print("num2 points to:", id(num2)) 
 
-dict1={
-    'value':11
-}
-
-dict2=dict1
-
-print("Before value is updated:")
-print("dict1",dict1)
-print("dict2",dict2)
-
-print("\ndict1 points to:",id(dict1))
-print("dict2 points to :",id(dict2))
-
-
-dict2['value']=23
-
-print("\ndict1 points to:",dict1)
-print("dict2 points to:",dict2)
-
-print("\ndict1 points to id:",id(dict1))
-print("dict2 points to id:",id(dict2))
-
 
     # dict1 ={
     #     'value':10
@@ -146,3 +124,24 @@ print("dict2 points to id:",id(dict2))
 # hello\s
 
 # Hello world
+
+print("Hello")
+
+head ={
+     "value":11,
+        "next":{
+              "value":3,
+             "next":{
+            "value":23,
+            "next":{
+                "value":7,
+                "next":None
+                    }
+              }   
+            }
+        }
+print(head['next']['next']['next']['value'])
+
+# This will only run with a Linked List
+
+print(head["next"]["next"]["next"]["value"])
