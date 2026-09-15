@@ -819,7 +819,7 @@ print("Tail",my_linked_list.tail.value)
 print("Length",my_linked_list.length)
 
 my_linked_list.print_list()
-
+# revision 9.15.2026
 
 
 
