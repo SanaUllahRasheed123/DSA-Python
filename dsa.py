@@ -964,3 +964,7 @@ print(my_doubly_linked_list.get(2))
 
 # Pop method
 # 9/23/2026
+
+# 9/24/2026
+
+# Intruduction to Double Linked List (get, pop method revise)
