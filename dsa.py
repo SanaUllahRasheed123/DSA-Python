@@ -1432,4 +1432,4 @@ print(my_doubly_linked_list.remove(1))
 my_doubly_linked_list.print_list()
 
 
-# aaj DLL topic cover hogaya hai!!
+# aaj DLL topic cover hogaya hai!!!
