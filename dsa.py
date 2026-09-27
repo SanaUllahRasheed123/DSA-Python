@@ -1433,3 +1433,5 @@ my_doubly_linked_list.print_list()
 
 
 # aaj DLL topic cover hogaya hai!!!
+# Ye kia k sab sy bayan dil ki halataiyn krni !
+# Farar tujh ko na ai Muhabatain krni!
