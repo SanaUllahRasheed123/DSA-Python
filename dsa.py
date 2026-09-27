@@ -1435,3 +1435,5 @@ my_doubly_linked_list.print_list()
 # aaj DLL topic cover hogaya hai!!!
 # Ye kia k sab sy bayan dil ki halataiyn krni !
 # Faraz tujh ko na ai Muhabatain krni!
+# Milen jab onsy to mubham si guftgu krna!
+# kabi talash purani rafaqatain krni!
