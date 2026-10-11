@@ -1471,7 +1471,7 @@
 # """
 
 
-    #    May Allah Give me good health and Happiness # 
+    #    May Allah Give me good health and Happiness ! Ameen # 
 
 
 
